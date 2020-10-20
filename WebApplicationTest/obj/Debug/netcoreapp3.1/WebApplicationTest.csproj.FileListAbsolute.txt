@@ -1,0 +1,7 @@
+C:\Users\tweel\TM_school\2020-2021\WebApp\Webapplicaties\WebApplicationTest\obj\Debug\netcoreapp3.1\WebApplicationTest.csprojAssemblyReference.cache
+C:\Users\tweel\TM_school\2020-2021\WebApp\Webapplicaties\WebApplicationTest\obj\Debug\netcoreapp3.1\WebApplicationTest.AssemblyInfoInputs.cache
+C:\Users\tweel\TM_school\2020-2021\WebApp\Webapplicaties\WebApplicationTest\obj\Debug\netcoreapp3.1\WebApplicationTest.AssemblyInfo.cs
+C:\Users\tweel\TM_school\2020-2021\WebApp\Webapplicaties\WebApplicationTest\obj\Debug\netcoreapp3.1\WebApplicationTest.csproj.CoreCompileInputs.cache
+C:\Users\tweel\TM_school\2020-2021\WebApp\Webapplicaties\WebApplicationTest\obj\Debug\netcoreapp3.1\WebApplicationTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tweel\TM_school\2020-2021\WebApp\Webapplicaties\WebApplicationTest\obj\Debug\netcoreapp3.1\WebApplicationTest.RazorAssemblyInfo.cache
+C:\Users\tweel\TM_school\2020-2021\WebApp\Webapplicaties\WebApplicationTest\obj\Debug\netcoreapp3.1\WebApplicationTest.RazorAssemblyInfo.cs
